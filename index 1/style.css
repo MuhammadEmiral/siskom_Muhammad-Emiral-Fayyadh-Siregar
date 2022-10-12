@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body {
+    background-color: #e1ffb1;
+    font-family: 'Poppins', sans-serif;
+}
+
+*{
+    box-sizing: border-box;
+}
+body,
+h1,
+h2, 
+h3,
+h4,
+h5,
+h6 {
+    margin: 3cm;
+}
+
+h1 {
+    background-color: #c7f2a4;
+    padding-top: 1cm;
+    padding-left: 1cm;
+    padding-bottom: 1cm;
+    padding-right: 0.5cm;
+    font-weight: 72px;
+    font-weight: 600;
+}
+h3 { background-color: #fcffb2;
+    border-radius: 4cm;
+    padding: 2cm;
+
+}
+.hero-image{
+    width: 300px;
+    height: 500px;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+a:active {
+    color: black;
+}
